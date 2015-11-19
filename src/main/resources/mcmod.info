@@ -1,0 +1,16 @@
+
+[
+{
+  "modid": "tfcrbotania",
+  "name": "TFC Botania Compatibility",
+  "description": "Fixes recipes and makes Railcraft usable with TFC",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vidaj"],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
