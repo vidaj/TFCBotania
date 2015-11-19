@@ -5,6 +5,7 @@ import com.vidaj.tfcbotania.common.recipes.RecipeManager;
 
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.oredict.OreDictionary;
+import vazkii.botania.common.lib.LibOreDict;
 
 public class CommonProxy {
 	public void registerRecipes() {

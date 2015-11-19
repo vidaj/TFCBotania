@@ -8,6 +8,7 @@ import cpw.mods.fml.common.Mod.Instance;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import vazkii.botania.api.BotaniaAPI;
 
 @Mod(modid = Constants.ModId, version=Constants.Version, dependencies=Constants.Dependencies)
 public class TfcBotania {
